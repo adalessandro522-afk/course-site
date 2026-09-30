@@ -10,7 +10,7 @@
 | Length | About 2 h 55 min of video across a Start Here module, 7 core modules and a wrap-up (easy to trim to ~2.5 h) |
 | Tools | Taught on free tiers of ChatGPT, Claude, Gemini and Microsoft Copilot. Paid-only features are flagged in "Good to know" callouts |
 | Platform | Stan Store. Resources as PDFs plus one Google Sheet of practice data |
-| Your credibility | **Placeholder: [your real background, e.g. finance student and equity research intern who uses AI daily].** I will only write what you confirm |
+| Your credibility | Finance major at the University of Tampa (B.S. Business, expected May 2027). Equity research intern at Vertical Research Partners, where you test AI-assisted research workflows and back-tested AI-generated forecasts across 31 companies (249 observations). Career Essentials in Generative AI (Microsoft and LinkedIn). Prior staff accounting intern. Taken from your resume. Nothing else is claimed |
 | Lesson pattern | Every lesson ends with a "Do it in 10 minutes" action. Every module has a "Check it" segment on accuracy, privacy or integrity |
 
 ---
@@ -110,7 +110,7 @@ Length is the estimated video time per lesson.
 | 8.1 | Capstone: your personal AI workflow | Choose your 5 most useful prompts and build a weekly routine | 5 min |
 | 8.2 | Next steps | Know how to keep improving and how to adapt as tools change | 2 min |
 
-**Total: 30 lessons, about 2 h 55 min.**
+**Total: 35 lessons, about 2 h 55 min.**
 
 Every learning outcome maps to a module, and accuracy and privacy reminders also appear in the earlier modules, not only in Module 7.
 
@@ -134,8 +134,8 @@ Every learning outcome maps to a module, and accuracy and privacy reminders also
 
 ## Open items for you
 
-1. **Your credibility line:** send your real background and I'll use only that.
-2. **Trim or keep the length:** 2 h 55 min is inside your 2–3 hour range. I can cut it to about 2.5 h by merging 3.5 into 3.3 and 4.5 into 4.3.
+1. **Credibility line:** now filled from your resume. Check that your internship allows you to name the firm and describe your AI testing publicly.
+2. **Trim or keep the length:** 2 h 55 min is inside your 2–3 hour range. I can cut it to about 2.5 h by merging 3.5 into 3.3 and 4.5 into 4.3 (35 lessons becomes 33).
 3. **Approve or change** the titles, module order and lessons.
 
 Reply "next" after approving, and I'll start Stage 2 with Module 0 and Module 1.
